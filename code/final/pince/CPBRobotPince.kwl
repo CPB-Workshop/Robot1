@@ -1,0 +1,22 @@
+Keuwlsoft Bluetooth Electronics Panel File
+2023-02-19 21:50:49
+2
+
+*.kwl
+set_grid_size(13,7)
+add_text_box(10,4,3,L,"326.91\n",245,240,245,S)
+add_text(7,4,large,L,Obstacle mm,245,240,245,)
+add_text(8,5,large,L,Terminal,245,240,245,)
+add_text(0,6,large,L,Calibrate no light,245,240,245,)
+add_text(6,6,large,L,Light pilot,245,240,245,)
+add_button(11,0,25,close,open)
+add_button(4,6,9,calibrate,)
+add_switch(8,6,1,light_on,light_off,0,0)
+add_4way_pad(0,0,1,2,3,4,0,0,,)
+add_led(4,1,1,L,0,0,0)
+add_led(8,1,1,R,0,0,0)
+add_led(6,3,1,B,0,0,0)
+add_buzzer(8,0,1,D,a,false,100.00)
+add_buzzer(4,0,1,G,a,false,100.00)
+add_monitor(10,5,3,,1)
+set_panel_notes(,,,)
