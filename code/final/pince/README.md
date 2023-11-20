@@ -5,7 +5,7 @@ Code final du mod "Pince" proposant de prendre le controlle complet de la machin
 ## Flasher le robot
 
 ### 0. Installer le logiciel Arduino
-Pour flasher le code, vous devrez installer arduino ()
+Pour flasher le code, vous devrez installer arduino (https://downloads.arduino.cc/arduino-1.8.19-windows.exe)
 
 ### 1. Branchez l'arduino par USB
 Vous devez débrancher le bluetooth (module bleu), prenez bien note de la manière dont tout est branché avant (prenez un photo, cela ne sera probablement pas de trop)
