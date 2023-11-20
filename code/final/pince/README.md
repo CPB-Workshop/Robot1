@@ -29,7 +29,7 @@ Dans la section "outils", vous devez choisir :
 
 Cela donne en somme ceci a la fin (Old bootload ou port Com près)
 
-<img src="reglages.PNG" style="margin-left: 50%;" />
+<img src="reglages.png" style="margin-left: 50%;" />
 
 ### 4. Flashez !
 
